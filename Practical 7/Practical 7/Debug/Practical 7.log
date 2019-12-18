@@ -1,0 +1,3 @@
+﻿  demo.cpp
+c:\users\taruc\source\repos\practical 7\practical 7\demo.cpp(163): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Practical 7.vcxproj -> C:\Users\taruc\source\repos\Practical 7\Debug\Practical 7.exe
